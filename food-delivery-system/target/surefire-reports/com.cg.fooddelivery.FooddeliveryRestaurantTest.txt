@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cg.fooddelivery.FooddeliveryRestaurantTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.215 sec - in com.cg.fooddelivery.FooddeliveryRestaurantTest
